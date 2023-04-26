@@ -5,8 +5,8 @@ public class task0 {
         int number = 1;
         try {
             number = 10 / 0;
-            String string = null;
-            System.out.println(string.length());
+            // String string = null;
+            // System.out.println(string.length());
         }
         catch (ArithmeticException e) {
             System.out.println("На ноль делить нельзя");

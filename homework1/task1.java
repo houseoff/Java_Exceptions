@@ -13,8 +13,9 @@ public class task1 {
     }
 
     public static int demoException2() {
-        String str = null;
-        return str.length();
+        // String str = null;
+        // return str.length();
+        return 0;
     }
 
     public static int demoException3() {
